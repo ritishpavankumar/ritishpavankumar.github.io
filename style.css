@@ -945,7 +945,7 @@
    ============================================ */
 @media (max-width: 480px) {
   .hero__title {
-    font-size: clamp(2.2rem, 10vw, 3.5rem);
+    font-size: clamp(3rem, 12vw, 6rem);
   }
 
   .project-card {
