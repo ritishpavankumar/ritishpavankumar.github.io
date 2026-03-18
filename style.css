@@ -361,7 +361,7 @@
   font-size: var(--text-hero);
   font-weight: 700;
   color: var(--color-text);
-  line-height: 1.05;
+  line-height: 1;     font-style: italic;     text-transform: uppercase;     letter-spacing: -0.02em;     font-family: 'Arial Black', 'Arial', var(--font-display), sans-serif;     text-shadow: 0 0 40px rgba(0, 212, 170, 0.25), 2px 2px 0px rgba(0,0,0,0.5);
   margin-bottom: var(--space-6);
 }
 
